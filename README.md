@@ -108,6 +108,9 @@ le texte est divisé en mots et chaque mot est traité indépendamment
 
 10. Structure du projet
 
+Architecture:
+(https://github.com/YACI01/satisfaction_clients/assets/130329130/b96b13f3-711b-4599-9ec9-d9de9eba2913)
+
 JAN23CDE_satisfaction/
 
 │
