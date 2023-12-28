@@ -1,0 +1,25 @@
+version: '3'
+services:
+  elasticsearch:
+    build:
+      context: .
+      dockerfile: Dockerfile_elasticsearch
+    ports:
+      - "9200:9200"
+    environment:
+      - discovery.type=single-node
+  kibana:
+    build:
+      context: .
+      dockerfile: Dockerfile_kibana
+    ports:
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+  scraping:
+    build:
+      context: .
+      dockerfile: Dockerfile_scraping
+    depends_on:
+      - elasticsearch
+    # Add other configurations as needed

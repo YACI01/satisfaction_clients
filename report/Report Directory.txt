@@ -1,0 +1,454 @@
+Sebastien -DataScientest
+  16 h 51
+Quelques conseils :
+Condenser la présentation : Résumez votre présentation en vous concentrant sur les points clés.
+Introduction générale : Commencez par une introduction générale du sujet avant de plonger dans les détails techniques.
+Amélioration des diapositives : Travaillez sur le contenu et la livraison de vos diapositives pour les rendre plus claires et percutantes.
+Diviser les diapositives en deux parties : Une partie sur l'analyse des données et le prétraitement, et l'autre sur le volume des données, les informations clients et les résultats de l'analyse.
+Fonctionnalités avant la technologie : Identifiez les exigences fonctionnelles nécessaires avant de choisir les options technologiques.
+Contextualiser le choix de la technologie : Fournissez plus de contexte et de détails sur les choix technologiques pour anticiper les questions de l'audience.
+Représentation de l'architecture du script : Utilisez des flèches pour représenter le flux de données plutôt que des carrés.
+Structure et contenu de la présentation : Organisez les diapositives de manière à captiver l'audience et envisagez d'inclure une démo.
+Gestion du temps et automatisation : Exprimez vos préoccupations concernant la gestion du temps et discutez de la nécessité d'automatiser certaines parties de la présentation.
+Équilibre entre détails techniques et explications non techniques : Trouvez un juste milieu pour que votre présentation soit accessible à tous les membres de l'audience.
+Confirmation de la date et de l'heure de la présentation : Assurez-vous que la date et l'heure de votre présentation sont bien confirmées.
+Assurez-vous de préparer et de réviser ces points avant la défense de votre projet pour une présentation réussie.
+
+
+Yaya CISSE
+  16 h 55
+merci bien.
+
+
+Plan de soutenance :
+Problématique business
+Proposition de valeur
+Approche méthodique = Plan
+Les ource de données et audit des données (qualité de la donnée + volumétrie)
+Liste de prnicipaux requis fonctionnel
+Choix et justification de la techno par requis
+Schema d'architetcure globale
+Démo (lancement, dashboard et Github)
+Conclusion et perspective
+16 h 03
+Prochain point le 29 Novembre à 15h
+
+Sebastien -DataScientest
+  14 h 16
+CR09/11 : satisfaction client
+Présent: 
+@Yaya CISSE
+
+Recording : https://us02web.zoom.us/rec/share/559rL89yWXcaiwyIjfZOvqvb61_uB8SR7Hu9Omae-H0cv6tvy6AlxxsndKok8opY.4akCKELQtdWUYDsg
+Passcode: A9RZ9ZD=
+Les points abordés:
+Refactoring du code et Création de fonctions pythons
+Architecture du dossier data
+TODO: Deadline 17 Novembre
+Création de scripts python :coche_blanche:
+Finalisation des tests -- en cours :coche_blanche:
+Finalisation du docker : ES + Kibana dans un conteneur (récupérer le docker-compose du cours ES)
+Finalisation du dashboard Kibana -- délais de réponse, les status, l'analyse des notes, des commentaires par entreprise et si possible des wordcloud
+Si temps mettre en place une pipeline d'intégration continu
+Si du temps : création d'un conteneur pour les scripts de scraping et d'insertion des données et ajout d'un cron job dans ce dernier
+Les points d'attention :
+La documentation du Github
+L'actualisation des données avec cronjob
+Prochain point le 15 Novembre 13h (CET): ? (modifié)
+
+Sebastien -DataScientest
+  16 h 16
+CR17/10:
+Présent: 
+@Yaya CISSE
+
+Recording: https://us02web.zoom.us/rec/share/FRk_UjqhrrYmtQq2FU6Ix1IRkVY4qia1jUvaPuMWu5z3MYysaO4wKBqjffsKe00_._eUxmW2pQD2EZX3Y
+Passcode: 6#ySt#pT
+Les points abordés:
+Test unitaire en cours
+Création de visualisation avec Kibana
+Finalisation de création d'index + d'insertion des données
+Attention pour 
+@Antoine Fradin
+ et 
+@Issa NDIAYE
+ je ne pourrais pas valider votre participation au projet :danger: . Prendre au plus vite contact avec 
+@Dimitri - DataScientest
+TODO: Deadline 17 Novembre
+Création de scripts python
+Finalisation des tests
+Finalisation du dashboard Kibana
+Création des différents containers
+Les points d'attention:
+La documentation du Github
+L'actualisation des données avec cronjob
+Prochain point le 7 Novembre 16h (CET): https://us02web.zoom.us/j/9050038800?pwd=NzJwcVJZVXBBTW9iRkVCZWdMdUp5UT09 (modifié) 
+
+
+CR17/10:
+Présent: 
+@Yaya CISSE
+
+Recording: https://us02web.zoom.us/rec/share/FRk_UjqhrrYmtQq2FU6Ix1IRkVY4qia1jUvaPuMWu5z3MYysaO4wKBqjffsKe00_._eUxmW2pQD2EZX3Y
+Passcode: 6#ySt#pT
+Les points abordés:
+Test unitaire en cours
+Création de visualisation avec Kibana
+Finalisation de création d'index + d'insertion des données
+Attention pour 
+@Antoine Fradin
+ et 
+@Issa NDIAYE
+ je ne pourrais pas valider votre participation au projet :danger: . Prendre au plus vite contact avec 
+@Dimitri - DataScientest
+TODO: Deadline 17 Novembre
+Création de scripts python
+Finalisation des tests
+Finalisation du dashboard Kibana
+Création des différents containers
+Les points d'attention:
+La documentation du Github
+L'actualisation des données avec cronjob
+Prochain point le 7 Novembre 16h (CET): https://us02web.zoom.us/j/9050038800?pwd=NzJwcVJZVXBBTW9iRkVCZWdMdUp5UT09 (modifié) 
+17 oct. à 16 h 16
+
+
+ 
+Sebastien -DataScientest
+CR02/08 :
+Présents - OUI \ NON
+@Yaya CISSE
+ - OUI
+Recording : https://us02web.zoom.us/rec/share/xDAbkDbPlTXefF3azQ1sBkbXiyxb_hnHFVTHXkCicaTMcQ_RPbp4f7M5jgERidut.-kEdBE8txdEuMIzk
+Passcode: b1wdCbh^
+Les points abordés:
+Finalisation de la documentation
+TODO:
+Si finalisation du projet tout seul.
+Finaliser la logique d'organisation des données (travail dans le notebook)
+Extraire le code sous forme de fonction set fichiers python
+code de création d'index
+code d'insertion des données depuis les CSVs
+code de requêtes --> requêtes qui vont répondre à tes question
+Ecrire quelques tests unitaires simples
+Compléter le README avec les informations d'organisation finales
+Commencer l'étape de consommation:
+soit travaille avec DASH:
+création du visuel
+code du visuel et connexion avec la basse de données
+Utilisation de Kibana: deadline 15 Octobre
+création du visuel
+Création du dashboard
+Prochain point le 17 Octobre à 16h: https://us02web.zoom.us/j/89069851544?pwd=RjBRdG91N0hUeEZOSlZYMEFNNUF1UT09
+7 sept. à 16 h 41
+
+
+ 
+Sebastien -DataScientest
+CR02/08 :
+Présents - OUI \ NON
+@Yaya CISSE
+ - OUI
+@Issa NDIAYE
+ - NON :danger: Attention aux absences --> risque impact sur notation
+@Temala Ouissem
+ - NON:danger: Attention aux absences --> risque impact sur notation
+Recording : https://us02web.zoom.us/rec/share/GZMSos-4yKNXODhjGWaGt1oCmIOBNbYYpw79tK09V2x3E8jTDVhaJ_tyy3pT_JHZ.mhoFkJdDjcgn7Xn9
+Code secret: #18ZZ1g4
+Les points abordés:
+Les points abordés:
+Fonction python pour la récupération des données
+Récupération du DF
+Création de fonctions (création, insertion et requêtage de données) ES dans un notebook
+:danger: TODO: Deadline Vendredi 24/07 11 Août
+Documentation: --> dans le README
+Rappel de la problématique
+Liste des questions business
+Choix de BDD en rapport avec la problématique
+Justification du mapping de données --> par rapport aux types de requêtes associées aux questions business
+Justification de l'organisation de la données au sein de l'index défini
+Créer 3 scripts .py:
+Création de BDD --> représenter votre modèle de données
+D'insertion de données dans le schéma (ou modèle de données précédemment défini
+Requêtage des données se trouvant dans votre BDD
+Faire le point avec 
+@Issa NDIAYE
+  et 
+@Temala Ouissem
+ & merger les travaux de 
+@Yaya CISSE
+ sur la branche principale
+Finaliser l'étape 2:
+Étape 2/ Organisation des données : Deadline Vendredi 24/07
+Il s'agira de la partie la plus importante de votre projet où vous ferez le coeur du métier de Data Engineer.
+On vous demande d'organiser les données via différentes bases de données :
+Relationnelle
+NoSQL
+Il faudra penser à l'architecture des données, notamment comment relier les différentes données entre elles.
+Livrable :
+Tout document expliquant l'architecture choisie (Diagramme UML)
+Fichier implémentant les bases de données
+Fichier de requête
+Créer une API qui va être l'interface entre votre front et la BDD (OPTIONNEL)
+ Next step:
+Etape 3 / Consommation des données : Deadline Jeudi 09/10
+Une fois vos données organisées, il faut les consommer, ce n'est pas le rôle initial d'un Data Engineer, mais pour que la pipeline des données soit complète, vous devez avoir cette partie.
+Il sera attendu de faire un notebook où vous ferez du Machine Learning dessus ou un tableau de bord avec Dash
+Prochain point le 23 Août à 17h: https://us02web.zoom.us/j/88220324062?pwd=K1hBdTZFVGJFczJhUmc1VUhyWWJwQT09
+2 août à 16 h 28
+
+
+ 
+Sebastien -DataScientest
+Hello @canal, pour information je n'ai toujours pas de visibilité sur vos derniers travaux en termes d'organisation. Selon moi, vous êtes désormais en retard sur le projet. Attention, sans validation du projet, vous ne validerez pas la formation.
+Veuillez noter que la prochaine Deadline est 09 Octobre et il s'agit de créer un front pour consommer vos données. je vous conseille donc de finaliser l'étape d'organisation d'ici le 15 Août au plus tard pour ne pas accuser trop de retard.
+24 juil. à 13 h 36
+
+
+ 
+Sebastien -DataScientest
+CR12/07 :
+Présents - OUI \ NON
+@Yaya CISSE
+ - OUI
+@Issa NDIAYE
+ - NON
+@Temala Ouissem
+ - NON
+Recording : https://us02web.zoom.us/rec/share/gxcS0aXOvBQaQn2xSoPpJOnLpYahgZUiTFJc-9zzd6c0Cnpka3dG3miBaFYYrAoA.z-jMh6DNcQVJZVem
+Code secret: G?3Ybu5T
+Les points abordés:
+Création de scripts de scrapping de données
+Script de nettoyage des données
+Sauvegarde des données en local et dans le Github
+Choix de la technologie de stockage = ES
+TODO: deadline au 24 Juillet
+Finalisation de la récupération des données (notebook avec le problème des dates) --> créer vos fonctions
+Création du script python (avec les lignes importantes et nécessaires)
+Finalisation de la stratégie de stockage (stockage des fichiers brutes)
+Pour les fichiers brutes
+et les données transformées
+Choisir la techno de BDD
+Test de création, insertion de données et requêtage depuis un notebook) --> identifier les lignes importantes
+Créer 3 scripts .py:
+Création de BDD --> représenter votre modèle de données
+D'insertion de données dans le schéma (ou modèle de données précédemment défini
+Requêtage des données se trouvant dans votre BDD
+Finaliser l'étape 2:
+Étape 2/ Organisation des données : Deadline Vendredi 24/07
+Il s'agira de la partie la plus importante de votre projet où vous ferez le coeur du métier de Data Engineer.
+On vous demande d'organiser les données via différentes bases de données :
+Relationnelle
+NoSQL
+Il faudra penser à l'architecture des données, notamment comment relier les différentes données entre elles.
+Livrable :
+Tout document expliquant l'architecture choisie (Diagramme UML)
+Fichier implémentant les bases de données
+Fichier de requête
+Prochain point le Lundi 24 Juillet à 13h ? Pouvez-vous confirmer 
+@Temala Ouissem
+, 
+@Yaya CISSE
+ et 
+@Issa NDIAYE
+  Sinon ce sera le 2 Août à 16h
+12 juil. à 17 h 49
+
+
+ 
+Sebastien -DataScientest
+CR21/06 :
+Présents - OUI \ NON
+@Yaya CISSE
+ - OUI
+@Issa NDIAYE
+ - OUI
+@Temala Ouissem
+ - OUI
+Recording : https://us02web.zoom.us/rec/share/J0Busumiu9VDZwDAUSgTUnm0sO1CcG85Ksr8NE0SaneCC9HPFuJ5d6a-N0rUOxkI.kraF-pYmLSXonPy3
+Passcode: X.B8ma7B
+Les points abordés:
+création de fonction python
+Complément de github
+Soucis de conversion des dates (lors de la création du dataframe)
+TODO: deadline au 24 Juillet
+Finalisation de la récupération des données (notebook avec le problème des dates) --> créer vos fonctions
+Création du script python (avec les lignes importantes et nécessaires)
+Finalisation de la stratégie de stockage (stockage des fichiers brutes)
+Choisir la techno de BDD
+Test de création, insertion de données et requêtage depuis un notebook) --> identifier les lignes importantes
+Créer 3 scripts .py:
+Création de BDD --> représenter votre modèle de données
+D'insertion de données dans le schéma (ou modèle de données précédemment défini
+Requêtage des données se trouvant dans votre BDD
+Finaliser l'étape 2:
+Étape 2/ Organisation des données : Deadline Vendredi 24/07
+Il s'agira de la partie la plus importante de votre projet où vous ferez le coeur du métier de Data Engineer.
+On vous demande d'organiser les données via différentes bases de données :
+Relationnelle
+NoSQL
+Il faudra penser à l'architecture des données, notamment comment relier les différentes données entre elles.
+Livrable :
+Tout document expliquant l'architecture choisie (Diagramme UML)
+Fichier implémentant les bases de données
+Fichier de requête
+Prochain point le 12 Juillet à 17h30 : https://us02web.zoom.us/j/86082848125?pwd=TGYwZ3E0UEdCYzBCbFd3cUMzdXRudz09
+21 juin à 18 h 45
+
+
+ 
+Sebastien -DataScientest
+CR30/05 :
+Présents - OUI \ NON
+@Yaya CISSE
+ - OUI
+@Issa NDIAYE
+ - NON
+@Temala Ouissem
+ - NON
+Recording : https://us02web.zoom.us/rec/share/JDk0qJUOq-KzZ-V6vYwuTu8Dcm5xs5BYnN9H2_gJ8CJGNauFocHhK0kVCM9WE212.ADl2EKY79EPAL3Bb
+Passcode: .+4FKuw$
+Les points abordés:
+Scrapping sur 6 entreprises
+Concaténation du jeu de données
+TODO:
+Retranscrire le code du notebook en fonctions Python (Pour la MAJ des données)
+Documenter votre problématique soit dans un document word ou dans le README de votre repo Github
+Structurer le repo Github soit de manière simple (data, report, src, notebook) ou utiliser https://www.cookiecutter.io/
+Commencer l'étape 2: Organiser les données --> deadline le 24 Juillet
+Choisir et justifier la techno de BDD
+Ecrire les scripts (création, insertion et requêtage)
+Documentation de l'étape (schéma de modèles de données, description d'organisation)
+Prochain point le 20 Juin à 18h 
+@Temala Ouissem
+ et 
+@Issa NDIAYE
+ pouvez confirmer ? (modifié) 
+cookiecutter.io
+Cookiecutter (63 ko)
+https://www.cookiecutter.io/
+
+30 mai à 17 h 31
+
+
+ 
+Sebastien -DataScientest
+CR08/05 :
+Présents - OUI \ NON
+@Yaya CISSE
+ - OUI
+@Issa NDIAYE
+ - NON
+@Temala Ouissem
+ - OUI
+Recording : https://us02web.zoom.us/rec/share/bi8c8ZxTmUYccs7LJSny8nOoKKtg5jcULN-p_hoKW0Vxf8ql4QGiUk7E5MMJC38.jrPa54mu2BMO5hiX
+Passcode: 6+5=zhvD
+Les points abordés:
+Réalisation du web scraping
+Attente du dataset d'
+@Issa NDIAYE
+Privilégier la recherche des informations sur des sites pour avoir la possibilité de mettre à jour l'information de manière automatique
+TODO:
+regarder le recording 
+@Issa NDIAYE
+Définir une problématique business (trouver une problématique)
+Finaliser le notebook en rajoutant le choix de la problématique et définir le périmètre
+Passer à l'étape 2: l'organisation des données
+Étape 2/ Organisation des données : Deadline Vendredi 24/07
+Il s'agira de la partie la plus importante de votre projet où vous ferez le coeur du métier de Data Engineer.
+On vous demande d'organiser les données via différentes bases de données :
+Relationnelle
+NoSQL
+Il faudra penser à l'architecture des données, notamment comment relier les différentes données entre elles.
+Livrable :
+Tout document expliquant l'architecture choisie (Diagramme UML)
+Fichier implémentant les bases de données
+Fichier de requête
+Prochain point le 30 mai 17h: https://us02web.zoom.us/j/84736364422?pwd=Zk5DRm52UjZrd0dqclZMSzROVitOQT09
+9 mai à 16 h 34
+
+
+ 
+Sebastien -DataScientest
+CR18/04:
+Présents - OUI \ NON
+@Yaya CISSE
+ - OUI
+@Issa NDIAYE
+ - OUI
+@Temala Ouissem
+ - NON
+Recording: https://us02web.zoom.us/rec/share/AYAYnMW7_Xt5S28qzODky5nWpvSA08FFUBH9mCVFa_IjwMgmygsLHWKDuLcRknEU.aDnBtpqonHPVBdAK
+Passcode: 2&XXX6n2
+Les points abordés:
+Présentation des membres de l'équipe
+Présentation des différentes étapes du projet
+TODO:
+@Temala Ouissem
+ revoir le recording
+Créer un repo Github et inviter tous les autres membres de l'équipe moi y-compris (mon pseudo github: ssime-git) --> ex de nom de repo sur Github JAN23CDE_satisfaction
+Identifier les sources de données (recherche sur internet d'API ou de sites avec des informations utiles)
+Récupérer un échantillon de données (Python, Postman, CSV)
+Explorer les données pour identifier les informations potentiellement utiles (à faire potentiellement en parallèle)
+Synthèse de toutes vos idées dans un document (Word ou Jupyter Notebook) --> Deadline 05/05
+présenter les sources de données retenues
+Les échantillons récupérer avec  le choix des données que vous allez utiliser
+Cadrage = le choix de votre problématique et des limites de votre projet
+Après le 05/05 commencer l'étape 2 (organisation des données)
+Prochain point le 9 mai à 16h: ok 
+@Temala Ouissem
+:alléluia:
+1
+:coche_blanche:
+1
+
+18 avr. à 16 h 54
+
+
+ 
+Sebastien -DataScientest
+Bonjour @canal,
+Je m’appelle 
+@Sebastien -DataScientest
+ et je suis votre mentor de projet. Heureux de faire votre connaissance.
+Ce message a pour but de vous présenter les différentes attentes relatives au projet et ses échéances.
+Comment se passe un projet fil rouge dans le cadre d’une formation cursus continu DE avec DataScientest ? Il suffit de suivre ces quelques étapes.
+:flèche_droite: Pour information, ces étapes sont pensées pour que votre projet se passe au mieux, c’est-à-dire sans problème de dernière minute et avec un rendu final à la hauteur de vos capacités.
+Le projet supply chain (satisfaction client) vous a été assigné. Vous pourrez trouver le jeu de données ici :
+-------------------------------------------------
+-------------------------------------------------
+Étape 0/ Cadrage (Notre première réunion): Deadline 21/04
+Introduction de chaque membre de l'équipe
+Explication du cadre du projet (les différentes étapes)
+Étape 1 / Découverte des sources de données disponible: Deadline Vendredi 05/05
+Définir le contexte et le périmètre du projet (ne sous-estimez pas cette étape)
+Prise en main des différentes sources de données(explorer les API fournis mais qui vous sont disponibles, les pages webs dont vous allez appliquer le webscraping (il faudra observer leur structure))
+Livrable attendu: La tâche est relativement simple, vous devrez fournir un rapport expliquant les différentes sources de données accompagné des exemples de données collectées
+Étape 2/ Organisation des données : Deadline Vendredi 24/07
+Il s'agira de la partie la plus importante de votre projet où vous ferez le coeur du métier de Data Engineer.
+On vous demande d'organiser les données via différentes bases de données :
+Relationnelle
+NoSQL
+Il faudra penser à l'architecture des données, notamment comment relier les différentes données entre elles.
+Livrable :
+Tout document expliquant l'architecture choisie (Diagramme UML)
+Fichier implémentant les bases de données
+Fichier de requête
+Etape 3 / Consommation des données : Deadline Jeudi 09/10
+Une fois vos données organisées, il faut les consommer, ce n'est pas le rôle initial d'un Data Engineer, mais pour que la pipeline des données soit complète, vous devez avoir cette partie.
+Il sera attendu de faire un notebook où vous ferez du Machine Learning dessus ou un tableau de bord avec Dash
+Étape 4/ Déploiement: Deadline Vendredi 17/11
+Création d'une API du modèle de Machine Learning ou de l'application Dash
+Réaliser des tests unitaires sur votre API
+Conteneuriser cette API via Docker et les bases de données
+Étape 5 / Automatisation des flux (ÉTAPE FACULTATIVE)
+Automatiser les différentes précédentes étapes pour que l'application soit fonctionnel en continu
+Mettez en place une pipeline CI/CD pour mettre à jour efficacement votre application
+Étape 6/ Démonstration de l'application + Soutenances (30 minute): 20/11 ou 21/11
+Vulgariser le déroulement de votre projet
+Expliquer l'architecture choisie lors de l'organisation des données
+Montrer que l'application est fonctionnelle
+Il ne sera pas attendu de parler en détail de la section consommation des données
+Voilà pour les grandes lignes.
+Je vous propose d’organiser un appel en zoom cette semaine pour que l’on puisse valider ensemble l’étape de cadrage. Que dites vous du :flèche_droite:18 Avril à 16h :flèche_gauche:. Réagissez avec un :+1: pour que je puisse savoir que vous avez bien lu ce message et confirmez moi votre disponibilité dès que vous le pouvez de préférence avant ce soir le 17 Avril pour que l’on puisse convenir d’un autre créneau qui convienne à tous.
+17 avr. à 11 h 47

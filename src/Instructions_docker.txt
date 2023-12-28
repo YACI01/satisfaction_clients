@@ -1,0 +1,8 @@
+
+
+
+
+http://localhost:8888/notebooks/Documents/Github/JAN23CDE_satisfaction/src/notebook_scraping_trustpilot.ipynb
+
+visualisations Kibana:
+lien <iframe src="http://localhost:5601/app/dashboards#/view/77e4d3d0-857f-11ee-ace2-6b086122ef60?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="800"></iframe>

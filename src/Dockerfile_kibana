@@ -1,0 +1,5 @@
+# Use the official Kibana image
+FROM docker.elastic.co/kibana/kibana:7.10.0
+
+# Add your custom Kibana configuration files
+ADD config/kibana.yml /usr/share/kibana/config/kibana.yml

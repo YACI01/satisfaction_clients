@@ -1,0 +1,16 @@
+# Planifier un cronjob chaque jour à 8h
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: scraping-job
+spec:
+  schedule: "0 8 * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: scraping-container
+            image: src-scraping
+            command: ["python", "/app/cronjobs/scraping_cronjob.py"]  # Ajout de la commande pour exécuter le script Python
+          restartPolicy: OnFailure

@@ -1,0 +1,14 @@
+@startuml
+  participant Utilisateur
+  participant scraping_trustpilot.py
+  participant bdd_trustpilot.py
+  participant Elasticsearch
+  participant Kibana
+
+  Utilisateur ->> scraping_trustpilot.py: Exécuter le script
+  scraping_trustpilot.py ->> Trustpilot: Extraire les données
+  Utilisateur ->> bdd_trustpilot.py: Exécuter le script
+  bdd_trustpilot.py ->> Elasticsearch: Stocker les données
+  Elasticsearch ->> Kibana: Fournir les données
+  Kibana ->> Utilisateur: Visualiser les données
+@enduml
