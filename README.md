@@ -107,9 +107,12 @@ le texte est divisé en mots et chaque mot est traité indépendamment
 - Merged: Quand le profil d'une entreprise ou un avis est accompagné du statut « Fusionné » sur Trustpilot, cela indique que l'entreprise avait plusieurs profils sur Trustpilot avant de les fusionner en un profil unique.
 
 10. Structure du projet
+
 JAN23CDE_satisfaction/
+
 │
 ├── src/
+|
 │   ├── scraping_trustpilot.py
 │   ├── bdd_trustpilot.py
 │   ├── cronjobs/
@@ -119,18 +122,23 @@ JAN23CDE_satisfaction/
 │   ├── Dockerfile_elasticsearch
 │   ├── Dockerfile_kibana
 │   ├── requirements.txt
+|   |
 │   └── .github/
 │       └── workflows/
+|           |
 │           └── tests.yml
 │
 ├── data/
+|   |
 │   ├── raw/
 │   └── processed/
 │
 ├── report/
+|   |
 │   └── Readme.txt
 │
 ├── notebook/
+|
 │
 ├── config/
 │   ├── elasticsearch.yml
